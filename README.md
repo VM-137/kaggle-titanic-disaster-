@@ -1,4 +1,5 @@
 # Titanic - Machine Learning from Disaster
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VM-137/kaggle-titanic-disaster-/blob/main/Titanic_disaster_kaggle.ipynb)
 #### The Challenge
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
